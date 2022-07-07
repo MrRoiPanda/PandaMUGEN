@@ -1,1 +1,1 @@
-# PandaMUGEN
+![](https://github.com/MrRoiPanda/PandaMUGEN/blob/f17504479505aa5563281a2300dc4ea0006bb461/pandaMUGEN.gif)
