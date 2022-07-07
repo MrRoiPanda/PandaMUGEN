@@ -1,0 +1,310 @@
+;---------------------------------------------------------------------
+[Characters]
+
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+SailorMoon
+empty
+empty
+Akame_Ga_Kill_1.10
+Songoku_US
+empty
+randomselect
+empty
+PG_buffy\buffy.def
+miku
+rin_kagamine
+empty
+CFJ_Dracula
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+SailorJupiter
+empty
+empty
+Luna_Himeki_A
+Donald
+seph2016
+hitler_wacker
+MvC2 Donald Duck (HOTFIX)\Donald.def
+Blade_AA
+pinkie pie
+empty
+empty
+CFJ_Freddy_Krueger
+blank ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+SailorMercury
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+CFJ_Ghostface
+blank ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+SailorMars
+empty
+Miranda
+Custom_MKV_Virginia\Virginia_by_DOBUROKU.def
+Riesz MAAB
+misaki
+Chris_GB
+Bisclavret
+Tain-ren
+B_raiya\b_raiyaD4(niku).def
+Reisen_U_Inaba_14.5
+empty
+CFJ_Alien\CFJ_Alien.def
+blank ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+SailorVenus
+empty
+Reimi_AVG2
+Karulau
+usada
+pafio
+Ruby Heart
+AtsukoKagari_SonBra_2D
+Soul Calibur
+Sakuya_Amakawa
+cthylla
+empty
+CFJ_Pinhead\CFJ_Pinhead.def
+blank ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+empty ; LOCKED
+beryl
+empty
+Eva_Obasan
+Hades Izanami
+Hisui
+Kokoro
+Lilica_AH3LMSSS\Lilica_AH3LMSSS_1.1.def
+Voltage-Zeroko-Pre
+Priere-IF
+p_prinny
+pciel_exp\IQS_PCielEXP_AI.def
+empty
+CFJ_Michael_Myers
+empty ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+blank ; LOCKED
+empty ; LOCKED
+JoJo1
+he-man
+skeletor
+infa
+Jin
+onslaught20
+empty
+!arabian_moon,, order=1
+!cham,, order=1
+!cammy,, order=1
+!kotaro\!kotaro0.def,, order=1
+!akari,, order=1
+!may_lee\!may_lee1.def,, order=1
+cvscarol
+Schlussel-Pre\Schlussel-Pre-1.1.def
+toushi
+empty
+empty
+hotaru_xi
+roomi
+MvC_Samus\SamusAI.def
+Ramia_J
+2B
+DIO,, order=1
+SSJB_GokuZ2
+Broly-Mugen11
+!demitri,, order=1
+seph2016\Cloud_S\Cloud_S_ai_patch.def
+juri
+kaeru
+!lilith,, order=1
+!athena,, order=1
+!phewtith,, order=1
+!yagumo,, order=1
+!yuri,, order=1
+Noel_S
+Astraea
+Leona-Pre
+rozaly
+Charlotte
+empty
+empty
+Petra_Johanna_Lagerkvist
+HiohKaede
+Yun Fang (Felicity)\Yun_Fang.def
+Porno
+Jotaro
+BERSERK_Armor_Guts
+KENSHIROU\KENSHIROU_AI-Patch.def
+!ralf,, order=1
+Tifa_L\Tifa_L_ai_patch.def
+Punisher,, order=1
+Neo Dio(Bad Darkness)\NeoDio.def
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+empty
+Nine,, order=1
+Parace_L'sia
+Natalia
+Kirakira
+Jolyne
+CFJ_RyuSF5
+Chun_LI_JJ
+!joe\!joe0.def,, order=1
+Joker
+WonderWoman
+BlackMagicianGirl,, order=1
+empty
+empty
+empty
+empty
+AncientDragon_SonBra
+empty
+empty
+empty
+empty
+empty
+empty
+Morrigan
+CVS_Morrigan EX\Morrigan_chu-nin.def
+hilda
+stera_qa
+Kuma_DD
+Giorno
+CFJ_M.Bison
+SFV_AKUMA by LESSARD
+!seiran_kaede\!seiran_kaede0.def,, order=1
+Batman
+BlackWidow
+CvS_Dark_Magician_Anime,, order=1
+empty
+empty
+empty
+drache_1
+dark_sakura
+Ice_Fox
+empty
+Hydron
+empty
+empty
+empty
+Rose
+Asagi Igawa\taimanin_asagi.def
+Kula_XIII
+Vampirella
+vampy
+
+;-----------------------
+[ExtraStages]
+ ;Put extra stages here. They will be available in VS and Watch modes.
+ ;For example,  you can insert "stages/mybg.def".
+
+  ;jjba
+stages\jjba-JoestarResidence.def
+stages\jjba-LibyaDesert.def
+stages\jjba-CairoClockTower.def
+stages\jjba-k-diofinal.def
+stages\jjba-Awakening.def
+stages\jjba-Dio's Mansion.def
+stages\jjba-Metallica.def
+  ;dbz
+stages\dbz-WorldTournamentArena.def
+stages\dbz-Space.def
+stages\dbz-NewPlanetVegeta.def
+  ;Street Fighter V
+stages\sfv-bustlingss.def
+  ;Metroid
+stages\metroid-XM'BRAIN'MX.def
+  ;Sailor Moon
+stages\sm-gameosap.def
+  ;Fallout
+stages\fallout-RedRocket.def
+  ;Vanguard Princess
+stages\vp-Night_Stage.def
+stages\vp-XX'POOL'XX.def
+  ;Skullgirl
+stages\skullgirl-GrandCathedral.def
+  ;Rabbit
+stages\rb_ja_koh 1.1.def
+stages\rb_rex 1.1.def
+stages\rb_wu_ling 1.1.def
+stages\rb_YuLanStage 1.1.def
+  ;Big Bang Beat
+stages\bbb-DevilDaigo.def
+stages\bbb-Kamui.def
+  ;Dugeon Fighter
+stages\df-IcePalace.def
+  ;Chaos Code
+stages\cc-Ray'sCasino.def
+stages\CC_Hikaru's_Stage.def
+  ;custom
+stages\custom-outerspacedbz.def
+stages\custom-stage0-720.def
+  ;Mugen
+stages\mugen-Mansion.def
+;---------------------------------------------------------------------
+[Options]
+
+arcade.maxmatches = 10,2,1,2,2,2,2,1,0,0
+team.maxmatches = 10,2,1,2,2,2,2,1,0,0
